@@ -2,7 +2,7 @@
 
 This repository contains a basic implementation of Transformer models from scratch using PyTorch And Tensorflow.
 
-## Contents
+## Contents 
 
 - Implementation of Transformer blocks
 - Training and evaluation scripts
